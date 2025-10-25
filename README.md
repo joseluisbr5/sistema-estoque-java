@@ -29,7 +29,7 @@ O sistema possui uma **interface amigável** com os seguintes recursos:
 - 📦 **Categorias pré-definidas** com menu de seleção;
 - ⚡ **Integração com cache Redis** para respostas instantâneas.
 
-![Tela de Exemplo](docs/telainicial.png)
+![Tela de Exemplo](telainicial.png)
 
 > 💡 A interface é construída em Java Swing com componentes personalizáveis e feedback visual (botões coloridos e mensagens de status).
 
